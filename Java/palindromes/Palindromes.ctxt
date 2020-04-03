@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=test\ Tester
+comment0.target=Palindromes(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment1.params=
+comment1.target=void\ palindrome()
+numComments=2
