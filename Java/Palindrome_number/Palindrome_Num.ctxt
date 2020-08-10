@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Palindrome_Num
+comment1.params=
+comment1.target=Palindrome_Num()
+comment2.params=number
+comment2.target=Palindrome_Num(int)
+comment3.params=
+comment3.target=void\ reverse_num()
+numComments=4
