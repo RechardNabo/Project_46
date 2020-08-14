@@ -11,9 +11,9 @@ public class Palindrome_Num
     
      public void reverse_num(){
         n = this.number;
-        while(n !=0){
-            rev = (rev * 10) +(n % 10);
-            n/=10;
+        while(n !=0x00){
+            rev = (rev * 0x0A) +(n % 0x0A);
+            n/=0x0A;
          }
          if(this.number == rev){
             System.out.printf("\nThe number is a palindrom : %d ",this.number);
